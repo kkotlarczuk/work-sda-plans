@@ -1,4 +1,4 @@
-1. []Załóż na dysku nowy katalog o nazwie "plans".
+1. []{}{}{}Załóż na dysku nowy katalog o nazwie "plans".
 2. Sp[]raw by katalog "plans" stał się repozytorium Git-a (katalogiem, którego zawartość jest przez niego wersjonowana).
 2. []Ustaw dla tego repozytorium nazwę i email użytkownika na "John Doe" jdoe@unknown.com.
 4. Utwórz w tym katalogu nowy (pusty) plik o nazwie "todos.md".
